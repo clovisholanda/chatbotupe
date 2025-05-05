@@ -18,7 +18,7 @@ app = Flask(__name__)
 def home():
     return "Aplicação funcionando!"
 
-# CORS(app)  # Permite CORS para todas as rotas
+CORS(app)  # Permite CORS para todas as rotas
 ##
 @app.route('/send_message', methods=['POST'])
 def send_message():
