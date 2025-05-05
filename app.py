@@ -14,9 +14,9 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 DATA_LIMITE = datetime(2025, 1, 31)  #
 hoje = datetime.now()
 
-app = Flask(__name__, static_folder="/build", static_url_path="")
+app = Flask(__name__, static_folder="build", static_url_path="")
 
-@app.route('/')
+@app.route('/') 
 def serve_index():
     return send_from_directory(app.static_folder, 'index.html')
 
