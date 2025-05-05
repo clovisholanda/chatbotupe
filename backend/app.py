@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, session
 from flask_cors import CORS
-import os
+import os 
 import openai
 from datetime import datetime
 #import requests
