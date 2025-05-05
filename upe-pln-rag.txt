@@ -1,0 +1,477 @@
+Sou um modelo e versão criada para a disciplina de Processamento de Linguagem Natural-PLN da UPE Recife do prof. Cleyton Rodrigues
+Escola Politécnica de Pernambuco - POLI Rua Benfica, 455 • Madalena Bloco C / 2º andar • Recife - PE• CEP 50.720-001
+Fone: (081) 3184.7542 • FAX (081) 3184.7548 • CNPJ N.º 11.022.597/0005-15 Home page: http://www.ppgec.ecomp.poli.br
+REGIMENTO INTERNO DO PPGEC UPE POLI ECOMP Engenharia da Computação - Pós Graduação - Recife, Pernambuco 2020
+CAPÍTULO I - Das Disposições Gerais
+Artigo 1º: O Programa de Pós-Graduação em Engenharia de Computação (PPGEC) da Escola Politécnica de Pernambuco (POLI), Universidade de Pernambuco (UPE), é uma Pós-Graduação estruturada na modalidade stricto sensu que oferece disciplinas, orientações e atividades de pós-graduação destinadas a concessão do grau de Mestre e Doutor em Engenharia de Computação.
+§ 1º - O PPGEC pode também oferecer disciplinas de nivelamento, sem cômputo de créditos, com o objetivo de complementar a formação dos candidatos ao Curso de Mestrado e Doutorado em Engenharia de Computação.
+§ 2º - O PPGEC mantém um corpo de Professores doutores, desenvolvendo atividades de pesquisa em computação, que dá suporte à formação dos Discentes do Programa de Pós-Graduação em Engenharia de Computação, possibilitando a concepção de temas para dissertações, teses e atividades de iniciação à pesquisa.
+§ 3º - Este Regimento Interno tem por base as premissas estabelecidas no documento de área de Ciência da Computação elaborado pela CAPES, resguardando o estatuto da UPE e a resolução CEPE no 041/2020, Regimento Geral de Programas de Pós-Graduação Stricto Sensu da Universidade de Pernambuco.
+§ 4º - As disciplinas, orientações e atividades do PPGEC, eminentemente científicas e tecnológicas, são realizadas de forma presencial ou remota.
+§ 5º - O PPGEC tem seu funcionamento organizado numa estrutura multicampi, com aulas, orientações e atividades executadas em um dos campi sendo transmitida em tempo real para os demais.
+CAPÍTULO II - Da Organização Administrativa
+Artigo 2º: São órgãos administrativos do Programa de Pós-Graduação em Engenharia de Computação o Conselho de Ensino, Pesquisa e Extensão (CEPE) da UPE (coordenação central), Colegiado da Pós-Graduação do Programa de Pós-Graduação em Engenharia de Computação (CPG-PPGEC) e a Coordenação da Pós-Graduação da POLI. O CPG-PPGEC atua também como órgão decisório.
+§ 1º - Alterações neste Regimento deverão ser efetuadas pelo CPG-PPGEC e homologadas pelo Conselho de gestão Acadêmica da POLI, e informadas às demais instâncias de acompanhamento da Pós-Graduação da UPE de acordo com o Artigo 6º da Resolução CEPE nº 041/2020 (Regimento Geral de Pós-Graduação da UPE).
+§ 2º - As atividades do Programa de Pós-Graduação serão dirigidas, executivamente, pelo Coordenador e Vice-Coordenador de Pós-Graduação do PPGEC, de acordo com o estipulado neste Regimento.
+Artigo 3º: O Colegiado da Pós-Graduação do PPGEC é composto pelo Coordenador, um Vice-Coordenador por cada campus onde o PPGEC se fizer presente, dois representantes dos Discentes do programa (um doutorando e outro mestrando) e todos os Professores Doutores que mantenham atividades regulares de pesquisa e ensino no programa no último ano e que estejam orientando ou coorientando Discentes. 
+Exceção se faz para os casos em que os Discentes do Docente tenham defendido suas dissertações no semestre anterior. 
+Em adição a isso, é exigido o atendimento aos critérios de produtividade estabelecido na norma interna.
+§ 1º - O Colegiado da Pós-Graduação do PPGEC é renovado anualmente, exercendo suas funções de janeiro a dezembro. Os membros do Colegiado que satisfizerem às condições definidas neste artigo serão reintegrados automaticamente.
+§ 2º - Os candidatos a ingressar no colegiado devem solicitar autorização ao mesmo para inscrever projetos para a seleção do mestrado e doutorado. O candidato deve atender aos requisitos mínimos, estabelecidos em norma interna, para que tal solicitação seja considerada. 
+A autorização é concedida após processo de credenciamento e re-credenciamento regular seguindo o estabelecido no Artigos 15, 16 e 17 do Regimento Geral de Programas de Pós-Graduação Stricto Sensu da Universidade de Pernambuco, se aprovada por 50% + 1 votos dos membros do Colegiado da Pós-Graduação do PPGEC. 
+Depois do pedido autorizado, o candidato passará a fazer parte do Colegiado.
+§ 3º - Os Docentes do CPG-PPGEC serão enquadrados em um dos seguintes tipos:
+a) Permanentes, de acordo com o Artigo 3º da Portaria CAPES nº 81/2016;
+b) Colaboradores, de acordo com o Artigo 9º da Portaria CAPES nº 81/2016.
+§ 4º - A exclusão de membros do CPG-PPGEC deve ocorrer, preferencialmente, na metade e ao final de cada quadriênio de avaliação da CAPES.
+§ 5º - Um membro pode ser retirado do Colegiado de Pós-Graduação do PPGEC a qualquer instante caso cometa alguma falta grave e caso sua exclusão seja aprovada por, pelo menos, dois terços do Colegiado de Pós-Graduação do PPGEC.
+§ 6º - Ao menos 70% dos Docentes permanentes do CPG-PPGEC deve ser composto por Professores em tempo integral na UPE, enquanto será permitido um máximo de 30% de Docentes com participação em mais de um programa de pós-graduação.
+§ 7º - CPG-PPGEC terá um Vice-Coordenador associado a cada campus onde o PPGEC exerça suas atividades em consonância com a Resolução CEPE nº 54/2020.
+Artigo 4º: Compete ao Colegiado da Pós-Graduação do PPGEC:
+§ 1º - Remeter ao Conselho de Gestão Acadêmica da POLI uma lista contendo os nomes de Docentes pertencentes à Pós-Graduação em Engenharia de Computação, assim como os nomes para compor os cargos de Coordenador e Vice-Coordenador do PPGEC, de acordo com as normas em vigor;
+§ 2º - Estabelecer critérios para aceitação de inscrições para a seleção de candidatos, observando as normas estabelecidas neste Regimento;
+§ 3º - Aprovar a proposta de edital de seleção de novos Discentes elaborada pela Coordenação;
+§ 4º - Estabelecer os critérios de seleção de novos Discentes de pós-graduação;
+§ 5º - Escolher os Docentes que comporão as Comissões de Seleção e de Bolsa à Pós-Graduação em Engenharia de Computação a qual executará os critérios de seleção;
+§ 6º - Aprovar o resultado apresentado pelas Comissões de Seleção e de Bolsa;
+§ 7º - Aprovar a criação e a extinção de linhas de pesquisa;
+§ 8º - Propor ao Conselho de Ensino, Pesquisa e Extensão da UPE a estrutura curricular dos Cursos e suas alterações;
+§ 9º - Assessorar o Coordenador e os Vice-Coordenadores em tudo que for necessário para o bom funcionamento do Programa do ponto de vista didático, científico e administrativo;
+§ 10 - Deliberar sobre processos de transferência e seleção de Discentes, aproveitamento e revalidação de créditos obtidos em outros cursos de pós-graduação stricto sensu, atribuição de créditos por outras atividades realizadas que sejam compatíveis com os planos de trabalho dos Discentes, dispensa de disciplinas, trancamento de matrícula, desligamento e readmissão de Discentes e assuntos correlatos;
+§ 11 - Credenciar, Re-credenciar e Descredenciar Docentes para o Programa de acordo com os critérios gerais estabelecidos neste Regimento e por norma específica ratificada pelo CP-PPGEC;
+§ 12 - Fixar, anualmente, o número de vagas dos Cursos;
+§ 13 - Escolher os Docentes que comporão a Banca de avaliação de desempenho dos Discentes;
+§ 14 - Aprovar as Bancas examinadoras de projetos de dissertação e de defesa de dissertação;
+§ 15 - Aprovar as indicações, feitas pelo Orientador, dos Co-Orientadores de dissertações e teses;
+§ 16 - Homologar resultados de Dissertações;
+§ 17 - Decidir sobre a prorrogação de prazo prevista nos Artigos 40 e 41 deste Regimento;
+§ 18 - Decidir sobre os recursos ou representações que lhe forem apresentados, na sua área de competência;
+§ 19 - Aprovar, semestralmente, o calendário das atividades do Programa e a relação de Docentes responsáveis pelas disciplinas do Curso;
+§ 20 - Aprovar convênios entre o Programa e outras entidades;
+§ 21 – Eleger a comissão de autoavaliação;
+§ 22 - Zelar pela observância deste Regimento e de outras normas atinentes exaradas por órgãos competentes;
+§ 23 - Delegar competências privativas desde que de maneira não permanente;
+§ 24 - Aprovar modificações a este Regimento;
+§ 25 - Cumprir e fazer cumprir este Regimento.
+Artigo 5º: Compete ao Coordenador de Pós-Graduação do PPGEC:
+§ 1º - Elaborar o edital de seleção de novos Discentes regulares ou Discentes em regime especial a fim de encaminhá-lo ao Colegiado da Pós-Graduação do PPGEC;
+§ 2º - Incumbir-se dos assuntos administrativos do Programa;
+§ 3º - Convocar as reuniões do Colegiado da Pós-Graduação do PPGEC e a elas presidir;
+§ 4º - Executar as deliberações do Colegiado, encaminhando aos órgãos competentes as propostas que dependerem de aprovação;
+§ 5º - Gerenciar a administração financeira do Programa;
+§ 6º - Apresentar anualmente ao Colegiado da Pós-Graduação do PPGEC relatório sobre as atividades de ensino, pesquisa e administrativas do Programa;
+§ 7º - Articular-se com a Coordenação de Pós-Graduação da POLI e com a Pró-Reitoria de Pós-Graduação da UPE, a fim de harmonizar o funcionamento do Programa com as diretrizes delas emanadas, inclusive prestar informações regulares sobre pessoas participantes (com seus CV Lattes) e atividades realizadas no Programa;
+§ 8º - Apresentar à Coordenação de Pós-Graduação da POLI e à Pró-Reitoria de Pós-Graduação da UPE, no prazo estipulado e dando ciência ao Colegiado da Pós-Graduação do PPGEC, relatório anual das atividades do Programa;
+§ 9º - Encaminhar, ao serviço de registro de diplomas, o regimento do Programa e a sua grade curricular, assim como as alterações que ocorrerem, a fim de atendimento à legislação específica;
+§ 10 - Representar o Programa dentro e fora da Universidade, atividade esta que pode ser delegável apenas ao Vice-Coordenador, em condição de impossibilidade do Coordenador;
+§ 11 - Zelar pela observância deste Regimento e de outras normas atinentes baixadas por órgãos competentes;
+§ 12 - Cumprir e fazer cumprir as resoluções dos Órgãos que lhe são superiores.
+§ 13 - O Coordenador de Pós-Graduação também deverá atuar junto com o Vice-Coordenador de Pós-Graduação no sentido de identificar e corrigir distorções na execução dos programas didáticos, assim como analisar as necessidades prementes do Corpo Discente.
+§ 14 – Provocar o Colegiado Pleno para a realizações de eleições, 3 meses antes do final do interstício dos incumbentes, para Coordenação e Vice-Coordenação do Programa a cada 3 anos, sendo permitida a recondução por igual período uma única vez.
+Artigo 6º: Compete ao Vice-Coordenador de Pós-Graduação:
+§ 1º - Coordenar e supervisionar a execução dos planos aprovados e todos os trabalhos referentes à realização dos programas e atividades do Curso.
+§ 2º - Elaborar, semestralmente, o calendário das atividades do Programa;
+§ 3º - Atuar em conjunto com o Coordenador do PPGEC na definição das disciplinas desse curso e dos Professores responsáveis pelas mesmas;
+§ 4º - Responsabilizar-se pela orientação da matrícula e pela execução dos serviços de escolaridade, de acordo com a sistemática estabelecida pelos órgãos centrais competentes;
+§ 5º - Atualizar os programas didáticos, ementas e bibliografias dos cursos de pós-graduação ligados ao PPGEC, após serem ouvidos os Professores que ministram as respectivas disciplinas;
+§ 6º - Avaliar sistematicamente a qualidade das aulas e das orientações, através do acompanhamento do desenvolver das disciplinas, dissertações e teses, e zelar pela qualidade do Curso, aferida por parâmetros oficiais e outros de interesse da Instituição;
+§ 7º - Apresentar ao Colegiado de Pós-Graduação do PPGEC relatório sobre quaisquer mudanças propostas nos cursos de pós-graduação ligados ao PPGEC, visando a uma manutenção dos currículos sempre atualizados;
+§ 8º - Zelar pela observância deste Regimento e de outras normas atinentes baixadas por órgãos competentes;
+§ 9º - Cumprir e fazer cumprir as resoluções dos Órgãos que lhe são superiores;
+§ 10 - Representar o Programa dentro e fora da Universidade quando esta atividade for delegada pelo Coordenador.
+§ 11 – Presidir a comissão de autoavaliação do PPGEC.
+§ 12 - O Vice-Coordenador de Pós-Graduação também deverá atuar junto ao Coordenador de Pós-Graduação no sentido de identificar e corrigir distorções na execução dos programas didáticos, assim como analisar as necessidades prementes do Corpo Docente.
+Artigo 7º: As reuniões do Colegiado de Pós-Graduação serão de dois tipos (a)Ordinárias e (b) Extraordinárias. Ambas as reuniões podem ser convocadas pelo Coordenador de Pós-Graduação OU de comum acordo de dois terços dos membros efetivos do CPG-PPGEC, expresso por escrito.
+§ 1º - As reuniões Ordinárias devem ser convocadas com no mínimo 15 (quinze) dias antes de sua realização, desde que todos os membros do CPG-PPGEC sejam formalmente informados (e.g., correio eletrônico para a lista dos membros do CPG-PPGEC) e sempre no dia da semana previamente estabelecido em comum acordo pela maioria dos membros efetivos do CPG-PPGEC no início de cada semestre letivo.
+ A reunião pode ser remarcada também caso o Coordenador e os Vice-Coordenadores justifiquem formalmente a impossibilidade de um deles presidir a reunião; nesse caso, como antes, a nova data deve ser aprovada por (50% + 1) dos membros efetivos do CPG-PPGEC.
+§ 2º - As reuniões Extraordinárias podem ser convocadas 24 (vinte e quatro) horas antes de sua realização, desde que todos os membros do CPG-PPGEC sejam formalmente informados (e.g., correio eletrônico para a lista dos membros do CPG-PPGEC). Essas são reuniões para deliberar assuntos de emergência.
+§ 3º - O Coordenador de Pós-Graduação do PPGEC deve, obrigatoriamente, convocar uma reunião Ordinária por semestre, preferencialmente ao final do semestre letivo. Essa reunião deve possuir uma pauta mínima: deliberar sobre a avaliação semestral dos Discentes; aprovação de constituição de bancas; deliberar sobre calendários de reuniões e administrativos.
+§ 4º - A ausência de membro à reunião do CPG-PPGEC deve ser justificada formalmente a esse, pelo faltoso, e incluída na ata da reunião.
+§ 5º - Toda reunião deverá ter um(a) Secretário(a). Na ausência de um funcionário específico para o cargo, o Coordenador de Pós-Graduação do PPGEC convidará um dos membros para secretariar a reunião do Colegiado. Consequentemente, toda reunião deverá possuir uma ata, contendo as deliberações da reunião, que por sua vez serão arquivadas, após sua assinatura pelos presentes, e publicadas. O(a) Secretário(a) deve publicar a ata da reunião, no máximo, até uma semana após o término da reunião.
+§ 6º - As reuniões do CPG-PPGEC podem iniciar suas atividades no horário previsto para convocação, mas somente poderão deliberar quando houver um quórum mínimo presente de 50% dos membros efetivos do Colegiado a menos da situação prevista no §8º deste artigo. Quando o Colegiado possuir número ímpar de membros deve-se considerar 50% como a metade arredondada para o inteiro imediatamente superior.
+§ 7º - Participações remotas de membros, como videoconferência, quando justificadas, são autorizadas como participação válida a reuniões do CPG-PPGEC.
+§ 8º - Temas urgentes assim explícitos em pauta, com exceção de alterações no Regimento interno do PPGEC, não demandarão quórum mínimo para decisão.
+Artigo 8º: As votações de matérias no CPG-PPGEC obedecerão a três regimes: 50% mais um voto ou dois terços dos votos dos membros presentes em uma reunião ordinária; ou 50% + 1 voto dos membros presentes do Colegiado da Pós.
+§ 1º - O regime de 50% + 1 voto dos membros do Colegiado da Pós somente se aplicará quando a matéria a ser decidida implicar em mudança nos termos deste Regimento ou no adiamento de reuniões ordinárias de acordo com o Artigo 7º. Para todas as outras deliberações, aplicar-se-á o regime de votação de 50% + 1 voto dos membros presentes em uma reunião ordinária.
+§ 2º - Somente membros efetivos do CPG-PPGEC têm direito a votar.
+§ 3º - Participantes não-membros do Colegiado, desde que devidamente autorizados pelo CPG-PPGEC, terão direito a participar com voz nas reuniões, mas sem direito a voto.
+§ 4º - Em qualquer regime de votação, somente em caso de empate, o Coordenador de Pós-Graduação do PPGEC ou seu representante, terá a prerrogativa do voto de desempate. Sendo esse um voto adicional, a ser contabilizado como mais um, ao anteriormente exercido pelo Presidente, então na sua capacidade de membro.
+§ 5º - Votações por e-mail são permitidas, sendo o resultado considerado apenas após manifesto de todos os membros do CPG-PPGEC. É direito de qualquer membro vetar a votação. Não havendo manifestações contrárias em até 3 (três) dias úteis após o início da votação, o item será considerado aprovado. Em caso de ser vetada a votação por algum membro do Colegiado, o Coordenador de Pós-Graduação do PPGEC marcará uma reunião extraordinária com prazo a depender da urgência da questão, 
+mas nunca menor que 24 (vinte e quatro) horas. 
+E caso seja aprovada a decisão, esta deverá ser incluída numa Ata ad hoc que deverá ser assinada por todos os que votaram em até uma semana.
+CAPÍTULO III - Do Ingresso, Seleção e Matrícula
+Artigo 9º: O ingresso aos Cursos de Pós-Graduação em Engenharia de Computação do PPGEC é facultado aos graduados nos Cursos de Engenharia da Computação, Ciência da Computação, Sistemas de Informação, Administração, Ciências Contábeis, Matemática, Estatística, Física, Química, Economia, cursos nas áreas das Engenharias, ou graduação em áreas afins, todos devidamente reconhecidos pelo MEC, desde que sejam aceitos pela Comissão de Seleção à Pós-Graduação em Engenharia de Computação, e 
+aprovados pelo Colegiado de Pós-Graduação.
+§ 1º - Além dos mesmos requisitos exigidos para ingresso no Mestrado, o ingresso no Curso de Doutorado do PPGEC é facultado apenas aos mestres em Engenharia da Computação, Ciência da Computação, Sistemas de Informação, Administração, Ciências Contábeis, Matemática, Estatística, Física, Química, Economia, cursos nas áreas das Engenharias, ou mestre em áreas afins.
+§ 2º - As inscrições para seleção aos Cursos de Pós-Graduação em Engenharia de Computação são realizadas em períodos determinados pelo CPG-PPGEC.
+§ 3º - A critério do CPG-PPGEC poderão participar do processo de seleção no nível de Mestrado concluintes de cursos de graduação desde que apresentam declaração explicita do coordenador do curso (com defesa do trabalho de conclusão marcada e todas as obrigações concluídas até a data da matrícula).
+§ 4º - A critério do CPG-PPGEC poderão participar do processo de seleção no nível de Doutorado concluintes de cursos de mestrado desde que apresentam declaração explicita do coordenador do curso (com defesa de dissertação marcada e todas as obrigações concluídas até a data da matrícula).
+§ 5º - A critério do CPG-PPGEC, poderão ser aceitos Discentes vindos de transferência de outros cursos stricto sensu autorizados pela CAPES desde que a avaliação do curso seja igual ou superior ao do PPGEC e haja disponibilidade.
+§ 6º - A critério do CPG-PPGEC, poderão ser admitidos no doutorado Discentes de mestrado, regularmente matriculados no PPGEC, antes da realização da defesa de dissertação, sem submeter-se ao processo público de seleção em conformidade com o Art. 27 do Regimento Geral de Programas de Pós-Graduação Stricto Sensu da Universidade de Pernambuco.
+§ 7º - A critério do CPG-PPGEC, poderão ser admitidos Discentes na modalidade visitante ou API (Aluno de Parceria Institucional) em conformidade com o Art. 22 do Regimento Geral de Programas de Pós-Graduação Stricto Sensu da Universidade de Pernambuco.
+§ 8º - Candidatos a ingresso no PPGEC que não forem da área de computação (Engenharia de Computação, Ciência da Computação, Sistemas de Informação e Engenharia de Software) devem ter seu conhecimento em computação aferido durante a etapa de entrevista do processo de seleção.
+§ 9º - Candidatos a reingresso no PPGEC, i.e., que não defenderam em uma das modalidades e retornam nessa mesma modalidade, podem reingressar uma única vez, sendo vedado a concessão de bolsas da cota CAPES a Discentes reingressantes.
+Artigo 10: O candidato a um dos cursos de Pós-Graduação do PPGEC deverá apresentar, no ato da inscrição, pelo menos, os seguintes documentos:
+a) formulário de inscrição devidamente preenchido;
+b) históricos escolares de graduação e pós-graduação, quando for o caso;
+c) curriculum vitae pormenorizado, com documentação comprobatória;
+d) cópia do diploma do curso superior ou certificado equivalente, ou ainda declaração comprovando que o Discente é concluinte. No caso de diplomas expedidos por instituições estrangeiras, é necessária a revalidação dos diplomas por Instituição de Ensino Superior Brasileira para a inscrição no curso.
+e) cópia do diploma do curso de pós-graduação ou certificado equivalente, ou ainda declaração comprovando que o Discente é concluinte. No caso de diplomas expedidos por instituições estrangeiras, é necessária a revalidação dos diplomas por Instituição de Ensino Superior Brasileira 
+para a inscrição no curso.
+f) Duas cartas de recomendação, em formulário específico, de Professores ou pesquisadores com quem tenha estudado ou trabalhado;
+g) Declarações de quitação de obrigações eleitorais e com o serviço militar (para homens);
+§ 1º - A relação completa dos documentos necessários para a inscrição será divulgada pelo CPG-PPGEC quando da publicação da chamada para inscrições.
+§ 2º - A Comissão de Seleção à Pós-Graduação em Engenharia de Computação deverá apresentar, em prazo estipulado pela Coordenação, no Colegiado da Pós-Graduação, parecer sobre aceitação ou não de cada candidato de acordo com os critérios definidos do CPG-PPGEC. Baseando-se nos seguintes itens:
+a) análise dos documentos apresentados;
+b) resultado da prova de seleção preliminar de acordo com o §3º deste artigo;
+c) entrevista com a Comissão de Seleção à Pós-Graduação em Engenharia de Computação (ou com membros do Colegiado indicados para tal finalidade), a critério da mesma.
+§ 3º - Segundo definições do CPG-PPGEC, a Comissão de Seleção à Pós-Graduação em Engenharia de Computação poderá também realizar prova de seleção preliminar de caráter eliminatório. De forma análoga, pode haver teste de fluência em idioma
+estrangeiro, inglês (aplicada pela Comissão de Seleção ou algum outro órgão aprovado pelo Colegiado).
+§ 4º - As etapas do processo seletivo e seus critérios de avaliação deverão ser explicitadas no edital, devendo constituir-se de: a) Inscrição e entrega da documentação; b) Análise e homologação da documentação; c) Divulgação dos candidatos aptos a participarem das etapas seguintes; d) Provas escritas eliminatórias, quando for o caso; 
+e) Apresentação e arguição do Projeto de Pesquisa de cada candidato pela Comissão examinadora, quando for o caso. Apresentar Tabela com critérios objetivos para pontuação; f) Análise e avaliação do Currículo Lattes (incluir no edital o barema); e g). Prova de proficiência em uma língua estrangeira, quando for o caso.
+§ 5º - A comissão de seleção deverá estabelecer um limiar de aprovação que deve ser informado explicitamente ao colegiado.
+§ 6º - Após cada etapa eliminatória deverá haver um prazo mínimo de três dias para que o candidato possa apresentar recurso, através de um modelo próprio anexo ao edital.
+§ 7º - O número de vagas para admissão aos cursos de Mestrado e Doutorado em Engenharia de Computação é estabelecido pelo CPG-PPGEC, para cada ano letivo.
+§ 8º - A ponderação da análise curricular e eventuais provas, projeto (apenas para o nível de doutorado), e teste proficiência devem estar indicados claramente no Edital.
+Artigo 11: O candidato aceito para a pós-graduação do PPGEC, obedecida à ordem de classificação e o limite de vagas, terá assegurado o direito de proceder sua matrícula no prazo estabelecido pela Coordenação da Pós-Graduação em Engenharia de Computação.
+§ 1º - O candidato classificado para o curso deverá, obrigatoriamente, efetivar sua matrícula inicial no primeiro período letivo regular após o exame de seleção, sem a qual perderá o direito à admissão no curso.
+§ 2º - O Discente do Curso de Pós-Graduação do PPGEC poderá se matricular em disciplinas oferecidas pelo Programa, em cada período letivo, nos prazos estabelecidos pela Coordenação da Pós-Graduação em Engenharia de Computação cumprindo-se as exigências dos demais artigos e com aval do Orientador ou Tutor.
+§ 3º - O Discente poderá trancar sua matrícula vínculo por, no máximo, um semestre letivo, a menos no primeiro período, não sendo esse período considerado para efeito de contabilização do prazo máximo exigido para conclusão do curso. Esgotado o período de trancamento e não renovando a matrícula o Discente será automaticamente desligado do curso. As condições e normas fixadas para a concessão do trancamento de matrícula são as seguintes:
+a) o requerimento para trancamento de matrícula com os motivos do pedido documentalmente comprovados, bem como o prazo pretendido;
+b) o requerimento, firmado pelo Discente e com manifestação favorável do seu Orientador, será dirigido ao CPG-PPGEC;
+c) não será concedido trancamento de matrícula durante a vigência de prorrogação de prazo para a conclusão da dissertação, com exceção de casos de doença grave;
+d) o trancamento de matrícula poderá retroagir à data da ocorrência do motivo de sua concessão, desde que solicitado enquanto este perdurar e que não provoque superposição com matrícula ou qualquer outra atividade realizada;
+e) haver razão importante que justifique o trancamento, que não é direito automático, pois terá sempre o mérito analisado pelo CPG-PPGEC.
+§ 4º - Será permitido o cancelamento, acréscimo ou substituição de disciplinas, mediante um requerimento em formulário próprio, antes de cumprimento do primeiro quarto da carga horária da disciplina em pauta, desde que aceito pela Coordenação da Pós-Graduação em Engenharia de Computação.
+§ 5º - Nos editais de seleção, as vagas podem não ser preenchidas se os candidatos não atingirem os critérios esperados.
+§ 6º - De acordo com resoluções internas vigentes, poderão ser reservadas vagas para servidor público ou empresas privadas, os quais devem ser submetidos as regras do processo seletivo do PPGEC, devem constar como novas vagas excedentes às vagas já regularmente ofertadas pelo programa.
+§ 7º - O Discente que não efetuar a sua matrícula vínculo a cada semestre estará desligado automaticamente do programa. Ficando facultado ao CPG-PPGEC aceitar ou não um pedido posterior de reintegração ao curso, encaminhando, em seguida, a solicitação ao Conselho de Ensino, Pesquisa e Extensão da UPE.
+§ 8º - A critério da Comissão de Bolsa, respeitando a ordem estabelecida pela Comissão de Seleção e as normas vigentes, as bolsas de mestrado e doutorado do PPGEC serão redistribuídas a cada nova seleção.
+a) A coordenação do PPGEC é responsável por cobrar dos Discentes o cumprimento das normas vigentes com relação às bolsas.
+b) A critério da coordenação do PPGEC ou por solicitação do Discente, com anuência do CPG-PPGEC, bolsas poderão ser redistribuídas a qualquer momento.
+c) O Discente bolsista não poderá ter vínculo empregatício durante a vigência da bolsa, com exceção para Discentes tutores, Docentes em outras instituições de ensino ou que realizem pesquisas remuneradas em área relacionada ao seu mestrado ou doutorado e somente com
+ autorização do Orientador e anuência da Coordenação.
+d) O Discente bolsista deverá ter participação obrigatória em todos os eventos acadêmicos de interesse do Programa e que sejam convocados pela Coordenação do PPGEC com o mínimo de 72 horas de antecedência. A ausência não justificada resultará no cancelamento da bolsa.
+Artigo 12: A critério do Colegiado da Pós-Graduação do PPGEC, poderá ser aceita a matrícula especial em disciplinas do curso, via edital específico.
+§ 1º - Os créditos obtidos como Discente especial poderão ser computados quando da efetivação da matrícula regular, após aprovação em exame de seleção, em um prazo máximo de 3 anos após a obtenção dos créditos, 
+não excedendo o máximo de 3 disciplinas (ou 12 créditos) cada uma com conceito igual ou superior a B (ou equivalente).
+§ 2º - A cada semestre o CPG-PPGEC define o número de vagas para Discentes especiais no Programa, por Disciplina, ouvidos os respectivos Professores que ministram as disciplinas.
+CAPÍTULO IV - Das Disciplinas, Dos Créditos e Do Projeto de Dissertação e Tese
+Artigo 13 - A integralização dos estudos necessários aos cursos de Pós-Graduação, nível Mestrado ou Doutorado, será expressa em unidades de crédito.
+Parágrafo único - A unidade de crédito corresponde a 15 (quinze) horas de atividades programadas.
+Artigo 14 - O Discente de Mestrado do PPGEC deverá integralizar, pelo menos, 30 (trinta) unidades de crédito, ou seja, no mínimo, 450 (quatrocentas e cinquenta) horas de atividades programadas, as quais correspondem a, no mínimo, 02 (duas) disciplinas obrigatórias (08 créditos), 02 (duas) eletivas da área (08 créditos), 02 (duas) eletivas gerais (08 créditos), 01 (um) Seminário de Complementação (03 créditos) e a defesa da dissertação (03 créditos).
+§ 1º - A dissertação não poderá ser defendida antes da obtenção de 27 (vinte e sete) créditos.
+§ 2º - Será permitido que o Discente substitua uma eletiva geral por uma eletiva da área, ou vice-versa, desde que isso seja conveniente para seu projeto de pesquisa e tenha sido apresentada justificativa com o consentimento formal do seu Orientador no ato da matrícula do semestre correspondente.
+Artigo 15 - O Discente de Doutorado do PPGEC deverá integralizar, pelo menos, 44 (quarenta e quatro) unidades de crédito, ou seja, no mínimo, 660 (seiscentas e sessenta) horas de atividades programadas, as quais correspondem a, no mínimo, 03 (três) disciplinas obrigatórias de cada uma das áreas (12 créditos), 03 (três) disciplinas eletivas da área ou gerais (12 créditos), 
+01 (um) Seminário de Complementação (03 créditos), 01 (uma) disciplina de Revisão Sistemática da Literatura (04 créditos), 01 (um) projeto de pesquisa (04 créditos), exame de qualificação (03 créditos) e a defesa da tese (06 créditos).
+§ 1º - A tese não poderá ser defendida antes da obtenção de 38 (trinta e oito) créditos.
+Artigo 16 - O regulamento do Seminário de Complementação será estabelecido via disciplina especial de responsabilidade da Coordenação do PPGEC.
+Artigo 17 - Poderão, a cargo do Coordenador, ouvidos o CPG-PPGEC e o Orientador, ser computados no total de créditos mínimos exigidos em disciplinas, 04 (quatro) créditos, ou seja, uma disciplina do quadro de eletivas, ao Discente que desenvolver uma ou mais das seguintes atividades:
+a) trabalho completo publicado em conferência ou periódico com perfil equivalente aos veículos de QUALIS A4 ou superior, do qual seja primeiro autor e que tenha comprovada relação com o projeto de dissertação do Discente;
+b) capítulo de livro de reconhecido mérito na área do conhecimento e que tenha comprovada relação com projeto de dissertação do Discente;
+Artigo 18 - Para fins de atribuição de créditos especiais, as atividades relacionadas no Artigo 16 deverão ser exercidas ou comprovadas no período em que o Discente estiver regularmente matriculado no PPGEC, observando que a UPE deve ser mencionada como única instituição a qual o Discente está filiado.
+Artigo 19 - Mediante parecer do Orientador e aprovação do CPG-PPGEC, poderão ser aceitos os créditos obtidos em disciplinas de programas de pós-graduação stricto sensu limitado a 12 créditos para Discentes de Mestrado e 24 créditos para Discentes de Doutorado.
+§ 1º - O total de créditos aproveitados em cursos de pós-graduação somados com os créditos aproveitados enquanto Discente especial não poderá ser superior ao limite fixado no caput deste artigo.
+§ 2º - Somente serão aceitos créditos de disciplinas nas quais o Discente tenha obtido conceito igual ou superior a B, ou nota equivalente, para cursos com conceito na CAPES maior ou igual ao conceito do PPGEC.
+§ 3º - Disciplinas nas quais o Discente tenha obtido conceito igual ou superior a B, ou nota equivalente, para cursos com conceito na CAPES inferior ao conceito do PPGEC deverão ter seu aproveitamento avaliado pelo CPG-PPGEC.
+§ 4º - Quando houver convênio de cooperação acadêmica ou científica firmado entre a UPE e outra instituição do País ou do exterior, o limite fixado no caput deste artigo poderá ser alterado a juízo do CPG-PPGEC.
+§ 5º - Para os Discentes no nível de Mestrado não será permitido aproveitar créditos para Seminário de Complementação e defesa da dissertação.
+§ 6º - Para os Discentes no nível de Doutorado não será permitido aproveitar créditos para Seminário de Complementação, projeto de pesquisa, exame de qualificação e defesa da tese.
+§ 7º - Os créditos obtidos somente poderão ser aproveitados se as disciplinas tiverem sido realizadas nos últimos cinco anos.
+Artigo 20 - O Discente do PPGEC deverá realizar Estágio de Docência por ao menos um semestre.
+§ 1º - A atividade de Estágio de Docência do Discente de Mestrado terá caráter de auxiliar didático, permanecendo o Professor da disciplina o único responsável pela mesma e pela supervisão do Discente.
+§ 2º - O Discente de Mestrado só poderá realizar o Estágio de Docência a partir do segundo semestre do primeiro ano do curso. Exceções, devidamente justificadas, podem ser autorizadas pelo Coordenador do Programa.
+§ 3º - O Discente de Doutorado só poderá realizar o Estágio de Docência até o terceiro ano do curso, não podendo esta atividade ser reaproveitada do Mestrado ou de outros programas de pós-graduação. Exceções, devidamente justificadas, podem ser autorizadas pelo Coordenador do Programa.
+§ 4º - A critério da coordenação do PPGEC, o Estágio de Docência poderá ser realizado em outra instituição de ensino, mas deve sempre ser supervisionado por um membro do CPG-PPGEC.
+Artigo 21 - Mediante apresentação de projeto pelo Orientador, aquiescência do Discente e aceitação em universidade estrangeira, o CPG-PPGEC pode autorizar a realização de Estágio Acadêmico no exterior para Discentes que atendam aos seguintes requisitos:
+a) integralização de 24 créditos para Discentes de Mestrado e 28 créditos para Discentes de Doutorado;
+b) não estar no último semestre letivo do curso.
+Parágrafo Único – O prazo máximo para cada Estágio Acadêmico será definido pelo CPG-PPGEC.
+Artigo 22 - As disciplinas do PPGEC deverão ser credenciadas pelo CPG-PPGEC. Para análise das solicitações de credenciamento de disciplinas, o CPG-PPGEC deverá designar relator próprio, cujo parecer ressalte o mérito e a importância junto à área de concentração, bem como a competência específica dos Professores responsáveis pela mesma.
+Artigo 23 - Cada disciplina poderá ter até 02 (dois) Professores responsáveis, com titulação mínima de doutor, e elementos curriculares que os habilitem para tal responsabilidade, aprovados pelo CPG-PPGEC.
+§ 1º - Professores externos ao Programa poderão ser autorizados pelo CPG-PPGEC para ministrar partes específicas de disciplinas, desde que sejam portadores do título de doutor e que a parte a ser ministrada não ultrapasse 20% (vinte por cento) da carga horária da disciplina. A autorização nestas deverá ser renovada a cada vez que a disciplina for ministrada.
+§ 2º - As aulas das disciplinas poderão ocorrer de maneira remota.
+§ 1º - A atividade de Estágio de Docência do Discente de Mestrado terá caráter de auxiliar didático, permanecendo o Professor da disciplina o único responsável pela mesma e pela supervisão do Discente.
+§ 2º - O Discente de Mestrado só poderá realizar o Estágio de Docência a partir do segundo semestre do primeiro ano do curso. Exceções, devidamente justificadas, podem ser autorizadas pelo Coordenador do Programa.
+§ 3º - O Discente de Doutorado só poderá realizar o Estágio de Docência até o terceiro ano do curso, não podendo esta atividade ser reaproveitada do Mestrado ou de outros programas de pós-graduação. Exceções, devidamente justificadas, podem ser autorizadas pelo Coordenador do Programa.
+§ 4º - A critério da coordenação do PPGEC, o Estágio de Docência poderá ser realizado em outra instituição de ensino, mas deve sempre ser supervisionado por um membro do CPG-PPGEC.
+Artigo 21 - Mediante apresentação de projeto pelo Orientador, aquiescência do Discente e aceitação em universidade estrangeira, o CPG-PPGEC pode autorizar a realização de Estágio Acadêmico no exterior para Discentes que atendam aos seguintes requisitos:
+a) integralização de 24 créditos para Discentes de Mestrado e 28 créditos para Discentes de Doutorado;
+b) não estar no último semestre letivo do curso.
+Parágrafo Único – O prazo máximo para cada Estágio Acadêmico será definido pelo CPG-PPGEC.
+Artigo 22 - As disciplinas do PPGEC deverão ser credenciadas pelo CPG-PPGEC. Para análise das solicitações de credenciamento de disciplinas, o CPG-PPGEC deverá designar relator próprio, cujo parecer ressalte o mérito e a importância junto à área de concentração, bem como a competência específica dos Professores responsáveis pela mesma.
+Artigo 23 - Cada disciplina poderá ter até 02 (dois) Professores responsáveis, com titulação mínima de doutor, e elementos curriculares que os habilitem para tal responsabilidade, aprovados pelo CPG-PPGEC.
+§ 1º - Professores externos ao Programa poderão ser autorizados pelo CPG-PPGEC para ministrar partes específicas de disciplinas, desde que sejam portadores do título de doutor e que a parte a ser ministrada não ultrapasse 20% (vinte por cento) da carga horária da disciplina. A autorização nestas deverá ser renovada a cada vez que a disciplina for ministrada.
+§ 2º - As aulas das disciplinas poderão ocorrer de maneira remota.
+O = Transferido - atribuído ao Discente que teve os créditos cursados em outra instituição e transferidos para seu registro acadêmico no Programa. Este conceito confere créditos ao Discente.
+§ 2º - O conceito I terá validade por um período não superior a seis meses, após atribuição do mesmo, quando então será obrigatoriamente substituído por um dos seguintes conceitos: A, B, C ou D.
+§ 3º - O conceito X, para efeito de avaliação, equivale ao conceito D.
+§ 4º - O conceito O, para efeito de avaliação, equivalerá a um dos seguintes: A, B ou será indeferido, conforme decisão tomada pela Vice coordenação no momento da apreciação da solicitação de transferência dos créditos.
+§ 5º - Para permanecer no curso, o Discente deverá ter Rendimento Acadêmico (Artigo 28) maior ou igual a 3,0 ao final de cada ano letivo. Caso contrário, o Discente será desligado do Programa.
+§ 6º - Será desligado do curso o Discente que obtiver um conceito final "D" em mais de uma disciplina ou em uma mesma disciplina mais de uma vez.
+Artigo 28 - Para fim de aferição do Rendimento Acadêmico (RA) do Discente, serão atribuídos valores numéricos aos conceitos, da seguinte forma: A=4,0; B=3,0; C=2,0; D=0,0.
+Parágrafo Único - O RA será calculado pela média dos valores numéricos dos conceitos, ponderada pelo número de créditos das disciplinas cursadas, isto é:
+RA = Σ (Ni  Ci) / (Σ Ci)
+em que Ni é o valor numérico correspondente ao conceito da disciplina e Ci é o número de créditos da disciplina.
+Artigo 29 - Antes do término do primeiro ano e em data estabelecida pelo CPG-PPGEC, o Discente de Mestrado deverá apresentar à Coordenação do PPGEC um projeto de dissertação. A Coordenação encaminhará o projeto ao PPGEC que definirá uma banca composta por 03 (três) Docentes (todos do referido Colegiado) para avaliação do projeto, sendo membro efetivo desta comissão o Orientador do Discente. Um suplente também é indicado para substituir qualquer membro da banca.
+Parágrafo único - O projeto deve seguir modelo estabelecido pelo CPG-PPGEC.
+Artigo 30 - A apresentação do projeto de dissertação pelos Discentes de Mestrado vinculados ao PPGEC deverá acontecer em data estabelecida pelo CPG-PPGEC.
+§ 1º - A banca arguirá o mestrando, o qual defenderá o seu projeto.
+§ 2º - Juntamente com a verificação do projeto, uma análise completa do desempenho do Discente deve ser feita. Essa análise envolve também critérios acadêmicos e de desenvolvimento de sua pesquisa.
+§ 3º - Poderá ser indicado, para composição da comissão julgadora, 01 (um) especialista de notório saber, externo ao Corpo Docente da UPE, aprovado pela maioria dos membros permanentes do CPG-PPGEC.
+§ 4º - O Discente deve ter cumprido pelo menos 50% dos créditos estabelecidos em disciplinas do Programa para marcar a defesa do projeto;
+Artigo 31 - Antes do término do quinto semestre e em data estabelecida pelo CPG-PPGEC, o Discente de Doutorado deverá apresentar à Coordenação do PPGEC um projeto de tese para exame de qualificação. A Coordenação encaminhará o projeto ao PPGEC que definirá uma banca para avaliação do projeto composta por 03 (três) Docentes fora o Orientador, sendo ao menos um membro interno do CPG-PPGEC, ao menos um membro externo, 
+todos com título de Doutor e produção científica compatível no mínimo com a do CPG-PPGEC (definida no Artigo 3º).
+Um suplente também é indicado para substituir qualquer membro da banca. § 1º - As defesas por vídeo conferência poderão ocorrer com uso da Internet e suas tecnologias, desde que sejam publicadas no site do PPGEC e nos demais canais de comunicação, com antecedência mínima de 2 (dois) dias úteis, as instruções para acesso ao canal de transmissão da defesa. 
+§ 2º - A Ata de Defesa e demais documentos que devem ser assinados pelos membros da banca, poderão ser gerados digitalmente e assinados com assinatura digital.
+§ 3º - O projeto deve seguir modelo estabelecido pelo CPG-PPGEC. 
+Artigo 32 - A defesa do exame de qualificação pelos Discentes de Doutorado vinculados ao PPGEC deverá acontecer em data estabelecida pelo CPG-PPGEC.
+§ 1º - A banca arguirá o doutorando, o qual defenderá o seu projeto.
+§ 2º - Juntamente com a verificação do projeto, uma análise completa do desempenho do Discente deve ser feita. Essa análise envolve também critérios acadêmicos e de desenvolvimento de sua pesquisa.
+§ 3º - O Discente deve ter cumprido pelo menos 70% dos créditos estabelecidos em disciplinas do Programa e ter publicado ao menos um artigo em conferência ou periódico com perfil equivalente aos veículos no extrato QUALIS A4 ou superior, do qual seja primeiro autor e que tenha comprovada relação com a pesquisa, para marcar o exame de qualificação;
+Artigo 33 - Na apresentação do projeto de dissertação ou exame de qualificação, o Discente será APROVADO ou REPROVADO, havendo atribuição de conceito. Os critérios são definidos como:
+A - Excelente, APROVADO;
+B – Bom, APROVADO;
+C – Regular, INDEFINIDO;
+D – REPROVADO.
+§ 1º - Será considerado APROVADO na apresentação do projeto de dissertação ou exame de qualificação o Discente que obtiver aprovação da maioria dos membros da comissão julgadora.
+§ 2º - O Discente que receber conceito C na apresentação do projeto de dissertação ou exame de qualificação poderá repetir a apresentação, apenas uma vez, em um prazo máximo de 03 (três) meses para alunos de Mestrado e 06 (seis) meses para alunos de Doutorado a partir da data da apresentação.
+§ 3º - O aluno que for REPROVADO na apresentação do projeto de dissertação ou exame de qualificação será desligado do Programa.
+Artigo 34 - Não poderá submeter-se à defesa da dissertação o candidato a Mestre que não tenha sido aprovado na apresentação de seu projeto de dissertação.
+Artigo 35 - Não poderá submeter-se à defesa da tese o candidato a Doutor que não tenha sido aprovado na apresentação do seu exame de qualificação.
+CAPÍTULO V - Da Orientação
+Artigo 36: O Discente do PPGEC deverá indicar seu Orientador de dissertação entre as opções disponíveis no ato da solicitação de ingresso, sendo que o Orientador já estará definido no momento da matrícula, após a seleção.
+§ 1º - O Orientador deve ser membro do CPG-PPGEC.
+§ 2º - Para a definição do Orientador deve existir a concordância explícita do mesmo e a aprovação do Colegiado de Pós-Graduação.
+§ 3º - O Discente poderá solicitar mudança de Orientador à Coordenação do PPGEC. Essa mudança também pode ser uma iniciativa dessa Coordenação ou do Docente previamente definido, desde que devidamente justificada.
+§ 4º - As mudanças de Orientador devem ser autorizadas exclusivamente pelo CPG-PPGEC.
+I. O Discente que deixar o seu Orientador e ficará sob a tutela temporária do coordenador que em 1 mês avaliará os candidatos a novo Orientador apresentados pelo Discente. Caso contrário, estará automaticamente desligado do programa.
+II. Em situações excepcionais, o Discente poderá ser orientado pela coordenação do PPGEC enquanto um novo Orientador não for definido.
+§ 5º - É necessário também solicitar ao PPGEC mudanças de área de concentração do Discente. Essa solicitação deve ser feita pelo Discente, devidamente justificada, com o aval do Orientador, devendo ser comprovada a experiência do Orientador na área pretendida.
+Artigo 37: O Discente do Programa de Pós-Graduação em Engenharia de Computação poderá ter um Co-Orientador que, em conjunto com o Orientador definido para o Discente, assumirá a responsabilidade pelo desenvolvimento do projeto do mesmo.
+§ 1º - A critério do CPG-PPGEC, além dos membros do seu Corpo Docente, Professores de outros cursos de pós-graduação stricto sensu ou Doutores poderão participar como Co-Orientadores de dissertações e teses.
+§ 2º - Para a definição do Co-Orientador deve existir a concordância explicita do mesmo, juntamente com a concordância do Orientador do Discente e a aprovação do CPG-PPGEC. Professor visitante pode ingressar como membro temporário do Colegiado da Pós-Graduação e, portanto, pode co-orientar Discentes, caso seja aprovado por dois terços dos membros do Colegiado da Pós-Graduação.4
+Artigo 38: O Orientador e eventual Co-Orientador devem se comprometer a:
+I. Propor temas e projetos de pesquisa compatíveis com o Mestrado ou Doutorado e com as áreas temáticas do Programa;
+II. Acompanhar periodicamente seus Discentes e estimular o desenvolvimento técnico-científico dos mesmos;
+III. Criar um ambiente favorável à produção de pesquisas científicas de qualidade;
+IV. Envidar esforços para que as dissertações sejam defendidas no prazo máximo determinado.
+Artigo 39: Cada Docente vinculado ao Colegiado de Pós-Graduação do PPGEC poderá orientar, simultaneamente, até o máximo de 12 (doze) Discentes de mestrado ou doutorado vinculados ao Programa, incluindo-se todos os Discentes que ainda não marcaram suas defesas de Dissertação; e as co-orientações de Discentes devem ser contabilizada como metade de uma orientação, para fins deste controle.
+ Um Discente deixa de contabilizar na carga do docente a partir da confirmação da data da defesa de sua dissertação.
+Parágrafo único – Casos de docentes cuja quantidade de orientações ultrapasse o limite estabelecido no caput deverão ser avaliados pelo CPG-PPGEC.
+CAPÍTULO VI – Dos Prazos e Da Conclusão do Curso
+Artigo 40 - O curso de Pós-Graduação em Engenharia de Computação, nível Mestrado Acadêmico, deverá ser concluído no prazo mínimo de 12 (doze) meses e máximo de 24 (vinte e quatro) meses.
+Artigo 41 - O curso de Pós-Graduação em Engenharia de Computação, nível Doutorado Acadêmico, deverá ser concluído no prazo mínimo de 24 (vinte e quatro) meses e máximo de 48 (quarenta e oito) meses.
+Artigo 42 - O prazo para a realização do curso de Pós-Graduação inicia-se pela primeira matrícula do Discente e encerra-se com o depósito da respectiva dissertação, respeitados os procedimentos definidos pelo CPG-PPGEC.
+Parágrafo único – Discentes que ingressem na modalidade Doutorado a partir da migração do Mestrado do PPGEC terão contabilizados no prazo total o tempo decorrido enquanto Discente de Mestrado.
+Artigo 43 - A prorrogação de prazo poderá ser concedida pelo CPG-PPGEC, em caráter excepcional, para as providências finais de conclusão de dissertação, desde que já tenha sido aprovado na apresentação do projeto de dissertação para Discentes de Mestrado ou já tenha sido aprovado no exame de qualificação para Discentes de Doutorado.
+§ 1º - O requerimento, firmado pelo Discente e com manifestação favorável do Orientador, será dirigido ao PPGEC contendo a justificativa do pedido e protocolado antes do vencimento do prazo máximo estabelecido no Artigo 40.
+§ 2º - O pedido de prorrogação deverá ser acompanhado por um cronograma indicativo das atividades a serem desenvolvidas pelo Discente no período de prorrogação.
+§ 3º - A prorrogação, preenchidos os requisitos deste Regimento, poderá ser concedida por um prazo máximo de 06 (seis) meses para Discentes de Mestrado. Sendo recomendável fracionar esta prorrogação em inicialmente 3 meses, seguidos por mais 3 meses mediante solicitação e se houver progresso tangível.
+§ 4º - A prorrogação, preenchidos os requisitos deste Regimento, poderá ser concedida por um prazo máximo de 12 (doze) meses para Discentes de Doutorado. Sendo recomendável fracionar esta prorrogação em inicialmente 6 meses, seguidos por mais 6 meses mediante solicitação e se houver progresso tangível.
+§ 5º - O não cumprimento de prazos e prorrogações implica no desligamento automático do Discente.
+Artigo 44: O Discente do curso de Mestrado só poderá se submeter à "Defesa de Dissertação'' após ter satisfeito os seguintes requisitos:
+§ 1º - Ter concluído o mínimo de 27 (vinte e sete) créditos, com RA (calculado na forma descrita pelo Parágrafo Único do Artigo 28) igual ou superior a 3,0 (três);
+§ 2º - Ter tido o seu projeto de dissertação aprovado, de acordo com o Artigo 33;
+§ 3º - Ter aprovado artigo científico em conferência ou periódico com revisão por pares ou estar aguardando processo de revisão do mesmo. Exceções, devidamente justificadas, podem ser autorizadas pelo Colegiado do Programa;
+§ 4º - Os 27 (vinte e sete) créditos exigidos no § 1º deste artigo serão obtidos de acordo com a estrutura curricular vigente e também contemplados eventuais créditos especiais e transferidos conforme Artigos 12, 17 e 19.
+§ 5º - Ter concluído Estágio de Docência.
+Artigo 45: O Discente do curso de Doutorado só poderá se submeter à "Defesa de Tese'' após ter satisfeito os seguintes requisitos:
+§ 1º - Ter concluído o mínimo de 38 (trinta e oito) créditos, com RA (calculado na forma descrita pelo Parágrafo Único do Artigo 28) igual ou superior a 3,0 (três);
+§ 2º - Ter tido o seu exame de qualificação aprovado, de acordo com o Artigo 33;
+§ 3º - Ter aprovado artigo científico em periódico com perfil equivalente aos qualificados no extrato QUALIS A4 ou superior, do qual seja primeiro autor e que tenha comprovada relação com a pesquisa;
+§ 4º - Os 38 (trinta e oito) créditos exigidos no § 1º deste artigo serão obtidos de acordo com a estrutura curricular vigente e também contemplados eventuais créditos especiais e transferidos conforme Artigos 12, 17 e 19.
+§ 5º - Ter concluído Estágio de Docência.
+Artigo 46: As dissertações e tese deverão ser redigidas em português ou inglês com resumo em ambas as línguas, para fins de divulgação, no formato tradicional segundo o Modelo de Dissertação do PPGEC de acordo com o Artigo 60 da Resolução CEPE Nº 041/2020, que versa sobre o Regimento dos Programas de Pós-Graduação stricto sensu da UPE.
+Parágrafo Único - A dissertação deve obrigatoriamente conter resumo para imprensa (press release)
+Artigo 47: A Dissertação de Mestrado será examinada por uma Banca examinadora composta por 3 (três) Docentes ou pesquisadores, com título de Doutor ou nível equivalente, e cada membro da banca terá direito a um voto.
+§ 1º - A indicação dos membros que deverão integrar a Banca examinadora é atribuição do Coordenador do Programa, ouvido o Orientador do Discente, com a vênia do Colegiado do PPGEC;
+§ 2º - Dentre os Docentes ou pesquisadores propostos no caput deste artigo, pelo menos um não deve ser membro do Corpo Docente do PPGEC. O avaliador externo deve ter produção científica compatível no mínimo com a do Colegiado (definida no Artigo 3º) ou ser pesquisador do CNPq.
+§ 3º - O Orientador ou o Co-Orientador podem fazer parte da banca. Sendo obrigatoriamente um deles membro Nato e lhe caberá a presidência da Banca. Caso os dois estejam na banca, só terão direito a um voto para representar a ambos e ainda haverá a necessidade de mais dois Docentes para composição da referida banca.
+§ 4º - O terceiro avaliador deve ser um Docente membro do Corpo Docente do PPGEC, que não o Orientador ou o Co-Orientador.
+§ 5º - Deverão ainda ser indicados dois suplentes para a Banca examinadora, sendo um deles externo ao Programa de Pós-Graduação em Engenharia de Computação do PPGEC.
+Artigo 48: Encerrado o exame da Dissertação de Mestrado, a banca examinadora, em sessão fechada, deliberará sobre o resultado a ser atribuído ao candidato. Será conferido o Grau de Mestre em Engenharia de Computação ao Discente que, após cumpridas as exigências regulamentares, lograr aprovação de sua Dissertação de Mestrado.
+§ 1º - O resultado do exame será expresso por uma das seguintes menções:
+a) aprovado
+b) reprovado
+§ 2º - O candidato será considerado aprovado se não receber a menção "reprovado" por mais de um examinador.
+§ 3º - A critério da banca será definido um tempo para que o Discente faça correções em sua dissertação. O tempo máximo permitido para correções da dissertação será de três meses. Apenas após o cumprimento dessas correções, ele poderá dar entrada na solicitação de conclusão do curso.
+§ 4º - A critério da banca, se for concedido tempo máximo de correção ao Discente, pode haver uma nova defesa.
+Artigo 49: A Tese de Doutorado será examinada por uma Banca examinadora composta por 5 (cinco) Docentes ou pesquisadores, com título de Doutor ou nível equivalente, e cada membro da banca terá direito a um voto.
+§ 1º - A indicação dos membros que deverão integrar a Banca examinadora é atribuição do Coordenador do Programa, ouvido o Orientador do Discente, com a vênia do Colegiado do PPGEC;
+§ 2º - Dentre os Docentes ou pesquisadores propostos no caput deste artigo, pelo menos dois não devem ser membros do Corpo Docente do PPGEC. Os avaliadores externos devem ter produção científica compatível no mínimo com a do Colegiado (definida no Artigo 3º) ou ser pesquisador do CNPq.
+§ 3º - O Orientador ou o Co-Orientador podem fazer parte da banca. Sendo obrigatoriamente um deles membro Nato e lhe caberá a presidência da Banca. Caso os dois estejam na banca, só terão direito a um voto para representar a ambos e ainda haverá a necessidade de mais quatro Docentes para composição da referida banca.
+§ 4º - Ao menos um avaliador deve ser um Docente membro do Corpo Docente do PPGEC, que não o Orientador ou o Co-Orientador.
+§ 5º - Deverão ainda ser indicados dois suplentes para a Banca examinadora, sendo um deles externo ao Programa de Pós-Graduação em Engenharia de Computação do PPGEC.
+Artigo 50: Encerrado o exame da Tese de Doutorado, a banca examinadora, em sessão fechada, deliberará sobre o resultado a ser atribuído ao candidato. Será conferido o Grau de Doutor em Engenharia de Computação ao Discente que, após cumpridas as exigências regulamentares, lograr aprovação de sua Tese de Doutorado.
+§ 1º - O resultado do exame será expresso por uma das seguintes menções:
+a) aprovado
+b) reprovado
+§ 2º - O candidato será considerado aprovado se não receber a menção "reprovado" por mais de dois examinadores.
+§ 3º - A critério da banca será definido um tempo para que o Discente faça correções em sua tese. O tempo máximo permitido para correções da tese será de três meses. Apenas após o cumprimento dessas correções, ele poderá dar entrada na solicitação de conclusão do curso.
+§ 4º - A critério da banca, se for concedido tempo máximo de correção ao Discente, pode haver uma nova defesa.
+Artigo 51: Após a realização das correções solicitadas pela banca de avaliação e mediante aprovação do presidente da banca, as dissertações e teses serão depositadas pelo Discente, na Secretaria de Pós-Graduação em Engenharia de Computação, obedecendo-se aos prazos regimentais.
+Artigo 52: O Diploma de Mestre ou Doutor será expedido a requerimento do Discente, após cumprir todas as exigências do Curso e da Comissão Examinadora, bem como ter sido procedida à devida colação de grau.
+§ 1º - Para a expedição do diploma, o Regimento Interno e a Grade Curricular devem estar aprovados e atualizados junto à Divisão de Registros de Diplomas. Uma outra exigência é que o Discente deverá entregar previamente duas cópias da versão definitiva da Dissertação ou Tese e uma cópia eletrônica da Dissertação ou Tese na secretaria do PPGEC.
+§ 2º - Cumpridas as exigências da banca no tempo determinado, o Discente terá 30 (trinta) dias para entregar à secretaria do Programa a versão final de sua Dissertação ou Tese, encadernada, catalogada e de acordo com o modelo vigente. Se devidamente justificado, o Discente pode solicitar uma extensão de prazo por até mais 30 (trinta) dias. Caso os prazos se encerrem e a Dissertação ou Tese em sua versão final não tenha sido entregue, o Discente será desvinculado do Programa.
+CAPÍTULO VII – Das Disposições Transitórias e Finais
+Artigo 53 - O Discente do PPGEC obedecerá à estrutura curricular em vigor na data de sua primeira matrícula.
+§ 1º - O Discente que estiver matriculado por ocasião do início da execução de uma nova estrutura curricular poderá solicitar, à Coordenação do PPGEC, adaptação para essa estrutura mediante análise de equivalência de disciplinas.
+§ 2º - A transferência de um Discente para uma nova estrutura curricular se efetivará após aprovação pelo CPG-PPGEC.
+§ 3º - A contagem de créditos para transferência de um Discente de uma estrutura curricular para uma nova será feita sobre o total das disciplinas da nova estrutura cobertas pela equivalência.
+§ 4º - A equivalência entre disciplinas levará em consideração a carga horária, o conteúdo programático, e será concedida mediante parecer favorável do CPG-PPGEC.
+Artigo 54 – O mecanismo de autoavaliação do PPGEC será definido em norma regulamentar a parte deste Regimento e deverá considerar os aspectos de avaliação periódica dos Docentes e da produção científica e tecnológica do Programa, de realização, acompanhamento e atualização de Planejamento Estratégico e da avaliação por consultoria independente externa.
+Artigo 55 - Novas normas regimentais e regulamentares que alterem ou modifiquem as atividades do PPGEC, excluídas as que se referem a prazos, serão de aplicação imediata, obedecidos os procedimentos de aprovação.
+Artigo 56 - Os casos omissos serão resolvidos pelo CPG-PPGEC, com base na legislação vigente da UPE.
+Artigo 57 - Das decisões do CPG-PPGEC, caberá recurso, em última instância, ao CEPE da UPE.
+Artigo 58 - Este Regimento, aprovado pelo Colegiado de Pós-Graduação em Engenharia de Computação em 23 de novembro de 2020, entrará em vigor após sua homologação pelo Conselho de Gestão Acadêmica da Escola Politécnica de Pernambuco e aprovado pelo Conselho de Ensino, Pesquisa e Extensão da UPE, de acordo com a Resolução CEPE Nº 041/2020, que versa sobre o Regimento dos Programas de Pós-Graduação stricto sensu da UPE.
+Escola Politécnica da Universidade de Pernambuco, Recife-PE, em 23 de novembro de 2020.
+PROF. DR. BRUNO JOSÉ TORRES FERNANDES COORDENADOR DA PÓS-GRADUAÇÃO EM ENGENHARIA DE COMPUTAÇÃO
+PROFA. DRA. ROBERTA ANDRADE DE ARAÚJO FAGUNDES VICE-COORDENADOR DA PÓS-GRADUAÇÃO EM ENGENHARIA DE COMPUTAÇÃO
+
+DÚVIDAS FEQUENTES:
+
+1. Processo Seletivo e Inscrição
+●Quem pode se inscrever no processo seletivo do PPGEC?
+ Qualquer candidato que atenda aos requisitos estabelecidos no edital do programa pode se inscrever.
+
+●Quais são os critérios de seleção para o mestrado e doutorado?
+ O processo seletivo considera análise curricular do candidato, em seguida uma entrevista para analisar o perfil do mesmo.
+
+●Quando abrem as inscrições para o mestrado e doutorado?
+ As inscrições ocorrem conforme o cronograma divulgado nos editais, disponíveis no site do PPGEC.
+
+●Como faço para me tornar um aluno especial no PPGEC?
+Para se tornar um aluno especial, é necessário acompanhar os editais específicos divulgados pelo programa.
+Os alunos especiais podem cursar disciplinas isoladas sem estar matriculados no mestrado ou doutorado. Normalmente, o processo envolve inscrição, análise de currículo e consequentemente a aprovação no programa.
+
+2. Matrícula e Disciplinas
+●Como faço minha matrícula no PPGEC?
+ A matrícula é realizada através do sistema acadêmico do programa, conforme o calendário divulgado.
+
+●Quais disciplinas devo me matricular ao ingressar no mestrado?
+ A escolha das disciplinas é realizada em conjunto pelo aluno e seu orientador, considerando a área da pesquisa. As disciplinas estão divididas em três categorias: básicas, eletivas gerais e eletivas por linha de pesquisa.
+
+3. Modalidade das Aulas
+●Qual é a modalidade das aulas no PPGEC? Elas são presenciais, remotas ou híbridas?
+ Atualmente, as aulas são híbridas, variando conforme a necessidade da disciplina. Em geral, 75% das aulas são realizadas de forma remota e 25% de forma presencial. No entanto, isso pode variar dependendo da disciplina.
+
+●Os alunos podem optar por uma modalidade específica de aula?
+ Não, a modalidade é definida pelo programa e pode variar conforme a disciplina.
+
+●Os encontros presenciais são obrigatórios?
+ Sim, quando programados, os encontros presenciais fazem parte da carga horária do curso.
+
+4. Bolsas e Financiamento
+●O PPGEC oferece bolsas de estudo?
+ Sim, conforme a disponibilidade de órgãos de fomento e critérios internos do programa.
+
+●Quais são os critérios para a concessão de bolsas?
+ A distribuição das bolsas é baseada no desempenho acadêmico e disponibilidade orçamentária.
+
+●É possível trabalhar e estudar no mestrado/doutorado ao mesmo tempo?
+ Sim, mas o aluno deve garantir que cumpra as exigências do Programa.
+
+5. Orientação e Corpo Docente
+●Como escolher um orientador no PPGEC?
+ O orientador é definido conforme a linha de pesquisa do aluno e a disponibilidade de professores.
+
+●Os alunos podem mudar de orientador durante o curso?
+ Sim, mediante justificativa e aprovação da coordenação do programa.
+
+6. Contato e Outras Informações
+●Quais são os canais de atendimento da Secretaria do Programa?
+
+○E-mail: secretaria_ppgec@ecomp.poli.br
+○Telefone: (81) 3184-7548
+○WhatsApp: (81) 99488-4075
+●Qual é o horário de funcionamento da Secretaria?
+ De segunda a sexta-feira, das 7h às 18h, com atendimento presencial e remoto.
+
+●Quais são as mídias oficiais do PPGEC?
+○Site: http://ppgec.upe.br/
+○Instagram: @ppgec.upe
+○LinkedIn: ppgec.upe
+○E-mail: secretaria_ppgec@ecomp.poli.br
+
+Quais os canais de atendimento da Secretaria do Programa?
+Temos os seguintes canais de atendimento:
+E-mail: secretaria_ppgec@ecomp.poli.br
+Telefone fixo: (81) 3184-7548
+WhatsApp: (81) 99488-4075
+
+Qual o horário de funcionamento da Secretaria do Programa?
+De segunda a sexta-feira, das 07h às 18h, com atendimento presencial e remoto.
+
+Como é a integralização do Mestrado?
+O aluno de mestrado deve cumprir 30 unidades de crédito, correspondentes a 450 horas de atividades programadas.
+
+Como se dá a integralização do Doutorado?
+O aluno de doutorado deve cumprir 44 unidades de crédito, correspondentes a 660 horas de atividades programadas.
+
+Como funciona o Estágio Pós-Doutoral?
+O estágio pós-doutoral segue as diretrizes estabelecidas pelo PPGEC e exige um plano de pesquisa supervisionado por um professor(orientador) do programa. 
+
+3. Matrícula e Disciplinas
+Quais disciplinas devo me matricular no momento que ingresso no mestrado?
+A escolha das disciplinas é realizada em conjunto pelo aluno e seu orientador, levando em consideração a área de pesquisa.
+
+Quais são as disciplinas obrigatórias e eletivas?
+As disciplinas obrigatórias incluem Didática do Ensino Superior e Metodologia Científica. As eletivas variam conforme a linha de pesquisa escolhida.
+
+Quais disciplinas eletivas são oferecidas?
+As disciplinas eletivas são atualizadas periodicamente e divulgadas no site do PPGEC, que varia de acordo com o período. 
+
+Posso cursar uma disciplina em outra Instituição?
+Sim, mediante aprovação da coordenação do programa e desde que a disciplina seja compatível com o plano de estudos.
+
+Como é a disciplina de Seminários?
+A disciplina de Seminários envolve apresentações periódicas dos alunos sobre suas pesquisas e participação em eventos acadêmicos.
+
+Como faço para cumprir o estágio docência?
+O estágio docência é obrigatório e deve ser realizado conforme as normas do programa, com acompanhamento de um professor responsável.
+
+É obrigatória a proficiência em inglês para participar do Programa de Mestrado ou Doutorado?
+Sim, a comprovação de proficiência em inglês é um dos requisitos para a admissão e conclusão do curso.
+
+Preciso publicar um artigo em periódico ou congresso durante o meu mestrado?
+Sim, a publicação de pelo menos um artigo em conferência ou periódico com revisão por pares é requisito para a defesa da dissertação/tese.
+
+O que é e quando é a defesa do Projeto de Dissertação?
+A defesa do Projeto de Dissertação ocorre após a conclusão das disciplinas iniciais e consiste na apresentação da proposta de pesquisa para uma banca avaliadora.
+
+Há modelo para o Projeto de Dissertação a ser defendido?
+Sim, o modelo pode ser obtido no site do PPGEC ou solicitado à secretaria do programa.
+
+Quem vai compor a banca da apresentação do Projeto de Dissertação?
+A banca é composta pelo orientador e outros docentes do programa ou especialistas na área de pesquisa.
+
+Quais os requisitos para estar apto para defender a minha dissertação de mestrado?
+O aluno deve cumprir a carga horária exigida pelo PGGEC, publicar um artigo científico e obter aprovação do orientador.
+
+5. Sistemas e Documentação
+Existe um sistema para acompanhar o meu desempenho acadêmico?
+Sim, os alunos podem acompanhar seu desempenho pelo sistema ATRIO.
+
+Onde encontrar documentos importantes referentes ao mestrado?
+Documentos como regulamentos, formulários e guias estão disponíveis no site oficial do PPGEC.
+
+Como funciona o processo de bolsas no Programa?
+As bolsas são distribuídas conforme disponibilidade e critérios internos do programa, geralmente considerando desempenho acadêmico e dedicação exclusiva.
+
+Solicitei bolsa, como saber se fui contemplado?
+A lista de contemplados é divulgada no site do PPGEC e os alunos selecionados são notificados pela secretaria.
+
+Sou bolsista, quais são as obrigações do bolsista?
+O bolsista deve manter bom desempenho acadêmico, cumprir carga horária de dedicação e realizar atividades acadêmicas, como estágio docência.
+
+ Mídias Oficiais e Coordenação
+Quais são as mídias oficiais do PPGEC?
+
+Site: http://ppgec.upe.br/
+
+Instagram: @ppgec.upe
+
+LinkedIn: ppgec.upe
+
+E-mail: secretaria_mestrado@ecomp.poli.br
