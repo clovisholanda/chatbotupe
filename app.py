@@ -14,7 +14,11 @@ DATA_LIMITE = datetime(2025, 1, 31)  #
 hoje = datetime.now()
 ##
 app = Flask(__name__)
-CORS(app)  # Permite CORS para todas as rotas
+@app.route('/')
+def home():
+    return "Aplicação funcionando!"
+
+# CORS(app)  # Permite CORS para todas as rotas
 ##
 @app.route('/send_message', methods=['POST'])
 def send_message():
@@ -74,4 +78,6 @@ def send_message():
     return jsonify(response) # Retorna a resposta para o frontend
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0',port=3001, debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Porta usada pelo Render
+    app.run(host='0.0.0.0', port=port)
+    
