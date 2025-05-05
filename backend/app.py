@@ -1,4 +1,3 @@
-print ("oi")
 from flask import Flask, request, jsonify, session
 from flask_cors import CORS
 import os
