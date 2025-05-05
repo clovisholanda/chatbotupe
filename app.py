@@ -1,5 +1,5 @@
 print ("oi")
-from flask import Flask, request, jsonify, session
+from flask import Flask, request, jsonify, session, send_from_directory
 from flask_cors import CORS
 import os
 import openai
@@ -13,13 +13,28 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 #
 DATA_LIMITE = datetime(2025, 1, 31)  #
 hoje = datetime.now()
-##
-app = Flask(__name__)
+
+app = Flask(__name__, static_folder="../build", static_url_path="")
+
 @app.route('/')
-def home():
-    return "Aplicação funcionando!"
+def serve_index():
+    return send_from_directory(app.static_folder, 'index.html')
+
+@app.route('/<path:path>')
+def serve_static(path):
+    file_path = os.path.join(app.static_folder, path)
+    if os.path.isfile(file_path):
+        return send_from_directory(app.static_folder, path)
+    else:
+        return send_from_directory(app.static_folder, 'index.html')
+##
+#app = Flask(__name__)
+#@app.route('/')
+#def home():
+#    return "Aplicação funcionando!"
 
 CORS(app)  # Permite CORS para todas as rotas
+
 ##
 @app.route('/send_message', methods=['POST'])
 def send_message():
