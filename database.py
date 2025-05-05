@@ -10,19 +10,19 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import TextLoader
 
 from langchain.text_splitter import CharacterTextSplitter
-pia="" 
-try:
-    with open('config3.txt', 'r') as file: #apikey
-       pia = file.readline().strip()  # Lê a primeira linha e remove espaços extras e quebras de linha
-except FileNotFoundError:
-        print("O arquivo não foi encontrado.")
-except Exception as e:
-        print(f"Erro ao ler o arquivo: {e}")
+#pia="" 
+#try:
+#    with open('config3.txt', 'r') as file: #apikey
+#       pia = file.readline().strip()  # Lê a primeira linha e remove espaços extras e quebras de linha
+#except FileNotFoundError:
+#        print("O arquivo não foi encontrado.")
+#except Exception as e:
+#        print(f"Erro ao ler o arquivo: {e}")
 
 INDEX_PATH = "index_faiss"
 
 # Inicializa o modelo de embeddings da OpenAI
-os.environ['OPENAI_API_KEY'] = pia
+#os.environ['OPENAI_API_KEY'] = pia
 embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
 
 def indexar_documento(arquivo_texto):
