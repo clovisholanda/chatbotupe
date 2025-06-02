@@ -12,7 +12,7 @@ const ChatApp = () => {
   const handleSendMessage = async (message) => {
   const userMessage = { sender: 'user', text: message };
   try {
-   const response = await axios.post('http://localhost:3001/send_message', { message });  // Envia a mensagem ao backend
+   const response = await axios.post('/send_message', { message });  // Envia a mensagem ao backend
    if (response.status === 200) { 
      // console.log('Resposta do backend:', response); para ver com f12 do navegador
      const botMessage = { sender: 'bot', text: response.data.response }; // Recebe a resposta do backend
